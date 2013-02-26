@@ -1,0 +1,22 @@
+About
+-----
+Minime is a tool that allows you to minimize applications or remove taskbar icon and place it into the system tray using a simple hotkey. What makes this tool somewhat unique is that it keeps your system tray & taskbar clean by minimizing all applications into a single tray icon.
+
+Minime is a stand-alone executable that doesn't require any installation and can even be run from your USB drive, woohoo! All icon files are stored as resources and will be neatly put into your temporary directory. Any custom settings will be placed in a settings.ini file if needed.
+
+Using Minime
+------------
+It is extremely easy to use Minime: a window can be minimized by pressing the hotkey combination. A minimized window can be restored by clicking on the tray icon and selecting the item in the context menu.
+
+The default hotkey combination is: 
+1) win + END = minimized the active window to system tray.
+2) win + DELETE = removes the taskbar icon of the active window. [if minimize option is checked in the options, the active window will be minimized as well]
+3) win + shift + a = restores all minimized windows.
+
+Download
+--------
+Homepage:
+ http://www.saphua.com/minime/
+
+Sourceforge project page:
+ https://sourceforge.net/projects/minime-tool/

@@ -1,0 +1,5 @@
+Homepage:
+ http://www.saphua.com/minime/
+
+Sourceforge project page:
+ https://sourceforge.net/projects/minime-tool/
