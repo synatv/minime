@@ -1,3 +1,7 @@
+Homepage
+---------
+http://www.saphua.com/minime/ or http://lokeshbp.github.com/minime/
+
 About
 -----
 Minime is a tool that allows you to minimize applications or remove taskbar icon and place it into the system tray using a simple hotkey. What makes this tool somewhat unique is that it keeps your system tray & taskbar clean by minimizing all applications into a single tray icon.
@@ -15,8 +19,5 @@ The default hotkey combination is:
 
 Download
 --------
-Homepage:
- http://www.saphua.com/minime/
-
 Sourceforge project page:
  https://sourceforge.net/projects/minime-tool/
